@@ -1,0 +1,19 @@
+{
+  "name": "pgn-parser",
+  "version": "1.0.0",
+  "description": "A library to parse chess pgn to a format which can be used for stockfish library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chess",
+    "pgn",
+    "stockfish"
+  ],
+  "author": {
+    "name": "Harnam Singh",
+    "email": "harnam.singh2601@gmail.com"
+  },
+  "license": "MIT"
+}
